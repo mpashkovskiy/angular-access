@@ -1,0 +1,27 @@
+{
+  "name": "angular-access",
+  "version": "0.1.0",
+  "homepage": "https://github.com/mpashkovskiy/angular-access",
+  "description": "Mobule provides declarative access to pages and UI elements",
+  "main": "src/angular-access.js",
+  "keywords": [
+    "angular",
+    "access",
+    "permission",
+    "role"
+  ],
+  "authors": [
+    "Matthew Pashkovskiy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.3.0"
+  }
+}
