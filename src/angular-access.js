@@ -2,7 +2,7 @@
 
 angular
 
-.module('angular-access', [])
+.module('angularAccess', [])
 
 .factory('Auth', function (User) {
 
