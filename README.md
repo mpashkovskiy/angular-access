@@ -1,6 +1,6 @@
 # angular-access
 
-Inspired with http://www.jonsamwell.com/url-route-authorization-and-security-in-angular/
+Inspired by http://www.jonsamwell.com/url-route-authorization-and-security-in-angular/
 
 Requirements
 ============
