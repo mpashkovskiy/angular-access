@@ -10,8 +10,3 @@ Define factory User with two methods
 * User.getCurrentUserRoles(function(roles) {})
 
 Define CSS class .hidden to hide elements
-
-Example
--------
-
-See example http://github.com/mpashkovskiy/angular-access-example
